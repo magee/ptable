@@ -1,0 +1,12 @@
+{
+  "username": "magee",
+  "name": "ptable",
+  "version": "0.0.1",
+  "title": "Periodic Table",
+  "description": "Iframe launcher-compatible periodic table",
+  "author": "Magee Mooney",
+  "launcher": "iframe",
+  "defaultConfig": {
+  },
+  "defaultUserState": {}
+}
